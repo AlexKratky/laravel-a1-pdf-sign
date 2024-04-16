@@ -1,12 +1,12 @@
 {
-  "name": "lsnepomuceno/laravel-a1-pdf-sign",
+  "name": "alexkratky/laravel-pdf-signer",
   "description": "Sign PDF files with valid x509 certificates",
   "license": "MIT",
   "type": "library",
-  "homepage": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign",
+  "homepage": "https://github.com/AlexKratky/laravel-a1-pdf-sign",
   "support": {
-    "issues": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign/issues",
-    "source": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign"
+    "issues": "https://github.com/AlexKratky/laravel-a1-pdf-sign/issues",
+    "source": "https://github.com/AlexKratky/laravel-a1-pdf-sign"
   },
   "keywords": [
     "a1",
@@ -22,6 +22,11 @@
       "name": "Lucas Nepomuceno",
       "email": "lsn.nepomuceno@gmail.com",
       "homepage": "https://github.com/lsnepomuceno"
+    },
+    {
+      "name": "Alex Kratky",
+      "email": "alex@panx.dev",
+      "homepage": "https://alexkratky.com"
     }
   ],
   "require": {
